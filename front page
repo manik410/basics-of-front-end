@@ -1,0 +1,54 @@
+
+<html>
+<head>
+    <link rel="icon" href="aaa.png" type="image">
+	<title>HOME</title>
+    <link href="website.css" rel="stylesheet">
+	<style>
+	</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head> 
+<body>
+    <header>
+        
+            <div class="row">
+                    <div class="logo">
+                    <img src="aaa.png"
+                    </div>
+    <ul class="main-nav">    
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="menu.html"> MENU </a></li>
+        <li><a href="aboutandcontact.html"> ABOUT & CONTACT</a></li>
+        <li><a href="faq.html"> FAQ </a></li>
+        <li><a href="http://www.newelectronics.co.uk/electronics-news/">NEWS </a></li>
+    </ul>    
+    </div>
+    <div class="hero">
+    <h1>A-ONE ELECTRONICS</h1>
+	</br></br></br></br>
+    <h3><marquee direction = "up" height="100%" scrollamount="2" onmouseover="this.stop();" onmouseout="this.start();">
+        Buying Electronic Appliances? Look no further than A-ONE ELECTRONICS  by Manik Jindal in INDIA
+        The world of internet and online that comprises of social media and digitization has been taking over our
+        lives and almost every facet of lifestyle in a very big manner. Right from the impeccability of the interfaces
+        that the online world of website and applications offer to the meticulous planning that goes behind in ensuring
+        such as watching movies, browsing news, and more is commendable. But there are seldom online retailers that are
+        really genuine with their offerings and business operations.<br>
+        Best Online Electronic Appliances sellingWebsites by our loyal and esteemed customers spread across in 
+        the  various cities .
+        </marquee>
+    </h3>
+       <br><br><br><br><br>
+    <div class="button">
+        <a href="video.mp4" class="btn btn-two"> Watch Video</a>
+        <a href="manik.html" class="btn btn-two"> Explore More</a>    
+    </div>    
+            
+    </div>
+    
+    </header>
+
+
+        
+</body>    
+</html>
