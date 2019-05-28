@@ -1,0 +1,38 @@
+
+<html>
+    <head>
+	<link rel="icon" href="aaa.png" type="image">
+	<title>Login</title>
+    <link href="home.css" rel="stylesheet" type="text/css">
+<script>
+function myfunction()
+{
+alert("Login as a Guest");
+}
+</script>
+
+    </head>
+    <body >
+        <header>
+<center>
+</br></br></br></br>
+          </br>
+		  </br> 
+		  <form action="website.html">
+<h1> <label>Name :</label></h1><input type="text"  placeholder="Enter your name" required>
+              <h1><label> Email :</label></h1><input type="email"  placeholder="Enter your email id" required >
+              <h1> <label>CONTACT:</label></h1><input type="number"  placeholder="Enter your Contact" required>
+			  </br>
+              <br><br><button class="btn btn-one" onclick="myfynction(()"><font color="black">WELCOME TO A-ONE ELECTRONICS</font></button>
+			  </form>
+			  <a class="fixed" href="website.html" class="btn btn-one" onclick="myfunction()"><h4><font color="black">GUEST LOGIN</font></h4></a>   
+</br></br>
+</br>
+             
+                </center>
+
+            </header>
+            
+        </body>
+        </html>
+
