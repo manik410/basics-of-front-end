@@ -1,0 +1,115 @@
+
+<HTML>
+<HEAD>
+        <link rel="icon" href="aaa.png" type="image">
+	<title>MORE</title>
+		<script>
+		function a()
+		{
+		document.getElementById("a1").style.height="1100";
+		document.getElementById("a1").style.width="1100";
+		}
+		function b()
+		{
+		document.getElementById("a1").style.height="1000";
+		document.getElementById("a1").style.width="1000";
+		}
+		function c()
+		{
+		document.getElementById("a2").style.height="1200";
+		document.getElementById("a2").style.width="1200";
+		}
+		function d()
+		{
+		document.getElementById("a2").style.height="1000";
+		document.getElementById("a2").style.width="1100";
+		}
+		function e()
+		{
+		document.getElementById("a3").style.height="1200";
+		document.getElementById("a3").style.width="1200";
+		}
+		function f()
+		{
+		document.getElementById("a3").style.height="1000";
+		document.getElementById("a3").style.width="1100";
+		}
+		function g()
+		{
+		document.getElementById("a4").style.height="1200";
+		document.getElementById("a4").style.width="1200";
+		}
+		function h()
+		{
+		document.getElementById("a4").style.height="900";
+		document.getElementById("a4").style.width="1000";
+		}
+		function i()
+		{
+		document.getElementById("a5").style.height="1200";
+		document.getElementById("a5").style.width="1200";
+		}
+		function j()
+		{
+		document.getElementById("a5").style.height="1000";
+		document.getElementById("a5").style.width="1100";
+		}
+		function k()
+		{
+		document.getElementById("a6").style.height="1200";
+		document.getElementById("a6").style.width="1200";
+		}
+		function l()
+		{
+		document.getElementById("a6").style.height="1000";
+		document.getElementById("a6").style.width="1100";
+		}
+		function m()
+		{
+		document.getElementById("a7").style.height="1100";
+		document.getElementById("a7").style.width="1100";
+		}
+		function n()
+		{
+		document.getElementById("a7").style.height="1000";
+		document.getElementById("a7").style.width="1000";
+		}
+		function o()
+		{
+		document.getElementById("a8").style.height="1000";
+		document.getElementById("a8").style.width="1000";
+		}
+		function p()
+		{
+		document.getElementById("a8").style.height="800";
+		document.getElementById("a8").style.width="800";
+		}
+		</script>
+		<style>
+		table,tr,th,td
+		{
+		border-collapse:collapse;
+		}
+		body{
+
+	 background:url('pica.jpg');
+	
+}
+		</style>
+		    </HEAD>
+<TITLE></TITLE>
+<BODY >
+
+<table cellspacing="0">
+<tr><td><img src="1.png" id="a1" height="1000" width="1100" onmouseover="a()" onmouseout="b()"></td>
+<td><img src="2.png" id="a2" height="1000" width="1100"  onmouseover="c()" onmouseout="d()"></td> 
+   <td><img src="3.png" id="a3" height="1000" width="1100" onmouseover="e()" onmouseout="f()"></td>
+   <td><img src="5.png" id="a4" height="1000" width="1100" onmouseover="g()" onmouseout="h()"></td></tr>
+<tr><td><img src="4.png" id="a5" height="1000" width="1100" onmouseover="i()" onmouseout="j()"></td>
+<td><img src="6.png" height="1000" id="a6" width="1100" onmouseover="k()" onmouseout="l()"></td> 
+   <td><img src="7.png" id="a7" height="1000" width="1100" onmouseover="m()" onmouseout="n()"></td>   <td><img src="8.png" id="a8" height="1000" width="1100" onmouseover="o()" onmouseout="p()"></td></tr>
+
+</table>
+</body>
+</html>
+
