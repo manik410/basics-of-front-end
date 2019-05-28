@@ -1,0 +1,45 @@
+
+<html>
+    <head>
+<link rel="icon" href="aaa.png" type="image">
+	<title>FAQ</title>
+            <link href="faq.css" rel="stylesheet" type="text/css">
+    </html>
+        <title>
+            </title>
+            <body>
+                    <font color="white">
+                         <center><h1>FAQ'S</h1></center>
+                         <ol>
+                             <li>HOW TO FIND THE WATTAGE OF THE PRODUCT?</li>
+                             <h2>The wattage of most appliances is usually stamped on the bottom or back of the appliance, or on its nameplate.The wattage listed is the maximum power drawn by the appliances.</h2>
+
+                             <li>HOW TO FIND THE DAILY ENERGY CONSUMPTION?</li>
+                             <h2>The daily energy consumption can be find by the following formula-</br>
+							 <center>(Wattage*hours used per day)/1000=Daily Kilowatt-Hour(kWh) consumption</center>
+                             </h2>
+                             <li>HOW TO FIND THE ENUM ENERGY CONSUMPTION?</li>
+                             <h2>The enum energy consumption can be find by the following formula-</br>
+							 <center>Daily kWh consumption*number of days used per year=annual energy consumption</center></h2>
+
+                             <li>HOW TO FIND THE ANNUAL COST TO RUN THE APPLIANCE?</li>
+                             <h2>The annual cost to run the appliance can be find by the following formula-</br>
+							 <center>Annual energy consumption*utility rate per kWh=annual cost to run appliance</center></h2>
+
+                             <li>HOW TO READ THE ENERGY GUIDE LABEL?</li>
+                             <h2>The energy guide label is required to be placed on all appliances by the manufactures.The label provides information about enery consumption and shows you how much energy an appliance uses compared with similar models.</h2>
+
+                             <li>WHAT DOES THE LABEL SHOW?</li>
+                            <h2> The label show the following-</br>
+							<dl><dt>1.Maker-Model no</dt>
+							<dt>2.Size of appliance</dt>
+							<dt>3.Estimated yearly cost</dt></dl></h2>
+
+                   
+
+                        </ol>
+                        </font>
+
+                </body>
+                </html>
+                
