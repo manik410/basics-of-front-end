@@ -1,0 +1,166 @@
+
+<html>
+<head>
+<link rel="icon" href="aaa.png" type="image">
+	<title>MENU</title>
+<link href="menu.css" rel="stylesheet">
+</head>
+<body>
+<div class="wrap">
+<div><center><h1><b><u><font color="yellow">MENU</font></u></b></h1></center></div>
+        <div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="woofer.png" style="width:100%">
+  			<div class="container"><br><br><br>
+                    		<h1>WOOFER</h1> 
+    			<h2><b>Price :Rs.1400</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">
+			  A woofer or bass speaker is a technical term for loudspeaker driver designed to produce low frequency sounds, typically from 40 Hz up to 500 Hz. 
+       			</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div>
+<div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="frigde.png" style="width:80%">
+  			<div class="container">
+                    		<h1>FRIDGE</h1> 
+    			<h2><b>Price :Rs.15000</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">
+    				Your food stays StoreFreshTM for up to 30 days
+Your fruits and vegetables stays fesh up to 30 days because of the StoreFreshTM Technology. 
+It minimises the temperature fluctuation inside the crisper and helps maintain precise moisture levels. 
+This ultra-modern technology also prevents fruits and vegetables from drying, making food items in the fridge last for a long time.
+       			</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div><div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="oven.png" style="width:100%">
+  			<div class="container">
+                    		<h1>OVEN</h1> 
+    			<h2><br><b>Price :Rs.8000</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">
+   A thermally insulated chamber used for heating,baking or drying of a substance.It includes pre-heating features.It uses microwaves radiation for cooking the food.Consumes very less power.
+       			</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div><div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="washing.png" style="width:60%">
+  			<div class="container">
+                    		<h1>WASHING MACHINE</h1> 
+    			<h2><b>Price :Rs.579</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">
+                    Looking to buy a new washing machine catered to your specific requirements?
+					Choose from a wide range of semi-automatic, front-loading and top-loading washing machines from IFB, 
+					Haier, Whirlpool, Samsung, Bosch, BPL, LG
+       			</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div><div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="gey.png" style="width:70%">
+  			<div class="container">
+                    		<h1>GEYSER</h1> 
+    			<h2><b>Price :Rs.5000</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">
+ There is nothing like coming home at the end of a long tiring day at work and 
+				   being able to rest and loosen up in a hot bath. This is where water geysers become 
+				   useful modern home appliances. Now, bring home a premium water geyser from A-one Electronics and enjoy a hot water bath every day irrespective of the weather. 
+       			</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div><div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="led.png" style="width:90%">
+  			<div class="container">
+                    		<h1>LED</h1> 
+    			<h2><b>Price :Rs.33000</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">
+                    Shop from A-One Electronics a wide selection of LED TVs, Smart
+					TVs, HD Ready TVs, 4K Ultra HD TVs and Full HD TVs available from top brands such as Sony, MI, 
+					Samsung, LG, Panasonic, TCL, CloudWalker, BPL, Sanyo, Micromax, Onida, Kodak, Kevin and Mitashi.
+       			</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div><div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="fan.png" style="width:120%">
+  			<div class="container">
+                    		<h1>CEILING FAN</h1> 
+    			<h2><br><b>Price :Rs.1500</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container"> Accurate White Aura Ceiling Fan, Warranty: 1 Year.
+       			</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div><div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="induction.png" style="width:100%">
+  			<div class="container">
+                    		<h1>INDUCTION</h1> 
+    			<h2><br><b>Price :Rs.6000</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">                    Purchase Induction Stove. Safe Trading on Leading B2B Platform. Trusted China Suppliers Verified by SGS. SGS Audited Suppliers. Quality China Products.
+       			</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div>
+
+<div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="press.png" style="width:70%">
+  			<div class="container">
+                    		<h1>DRY IRON</h1> 
+    			<h2><br><b>Price :Rs.800</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">    
+                   Best Irons on Top Brands like Bajaj, Philips, Maharaja and more. Choose from a variety of dry & steam irons.</div>
+                		</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div>
+<div class="card" onclick="func()">
+		<div class="thefront">
+			<img src="dryer.png" style="width:70%">
+  			<div class="container">
+                    		<h1>DRYER</h1> 
+    			<h2><br><b>Price :Rs.580</b></h2> 
+  			</div>	
+		</div>
+        		<div class="theback">
+                        		<div class="container">    
+                                  Buy Nucleair Chaoba 2800 Hot & Cold Professional 2800 Hair Dryer only for Rs. from Flipkart.com.
+				   Only Genuine Products. 30 Day Replacement Guarantee. Free Shipping. Cash On Delivery!</div>
+	</div>
+	<div class="button"><a href="form.html" class="btn btn-one">BUY</a></div>
+        </div>
+</div>
+</div>
+</body>
+</html>
+</html>
