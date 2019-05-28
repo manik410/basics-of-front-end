@@ -1,0 +1,42 @@
+
+<html>
+    <head>
+	<link rel="icon" href="aaa.png" type="image">
+	<title>About</title>
+            <link href="aboutandcontact.css" rel="stylesheet" type="text/css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    </html>
+        <title>
+            </title>
+            <body  style="background-image:linear-gradient(black,silver,gray);">
+                    <div class="split left">
+                            <header>
+                            <div class="centered">
+                                
+                              <img src="dp.jpg" height="500">
+							   
+                            </header>
+                        </div>
+                          </div>
+                          <div class="split right">
+                                <div class="centered">
+                                  <h3>ABOUT</h3>
+                                  <h1>NAME:</h1>
+                                  <h2>MANIK JINDAL</br></h2>
+                                   <h1>ROLL NO:</h1>
+                                   <h2>1710991458</br> </h2>
+                                  
+                                  <h1>EMAIL:</h1>
+                                  <h2>manikjindal140@gmail.com
+</br><h2>
+                                  <h1>ADDRESS:</h1>
+                                  <h2>H-124,Meera Complex,Ludhiana</h2>
+                                  <h1>CONTACT:</h1>
+                                  <h2>9041035777</br></h2>
+                                </div>
+                              </div>
+                        
+                          
+                </body>
+                </html>
