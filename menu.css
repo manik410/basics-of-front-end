@@ -1,0 +1,84 @@
+body
+ 	{
+
+                background-image: url("wood1.jpg");
+		background-size: 3000px 668px;
+
+          	background-color: #bfd8d2;
+
+          	color: white;
+
+         	margin: 0;
+    	}
+.theback{
+		poisition: absolute;
+		text-align: center;
+		width: 200px;
+		height:450px;
+		backface-visibility: hidden;
+		transform: rotateY(180deg);
+	}
+.thefront{
+		position: absolute;
+ 		width: 300px;
+		height:450px;
+		backface-visibility: hidden;
+	}
+.wrap	{
+		display:inline-block;
+		
+	  	width:75%;
+		height:3000px;
+		margin-left:12.5%;
+		color: white;
+	  	
+	}
+
+.card 	{
+  	  	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+  	  	width: 350px;
+   	  	text-align:center;
+  	  	font-size:16px;
+  	  	font-family:sans-serif;
+   	  	float:left;
+  	  	color: yellow;
+		margin:50px;
+  	  	margin-left:150px;
+  	  	display:inline-block;
+		transform-style: preserve-3d;
+                 	transition: all 1.5s ease;
+		border-radius: 30px;
+	}
+.container 
+	{
+  	 	padding: 6px 16px;
+		text-align: center;
+		text-color: blue;
+	}
+.card:hover 
+	{
+  	  	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+		transform: rotateY(180deg);
+		
+	}
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.btn-one
+{
+    background-color: #39323147;
+    font-family: "Roboto", sans-serif;
+}
+.btn-one:hover
+{
+    background-color: #c9cbc0;
+    transition: all 0.0s ease-in;
+    
+      }
